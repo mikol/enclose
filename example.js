@@ -25,7 +25,6 @@ function factory(enclose) {
     Example.prototype.setExample = function setExample(example) {
       this.$(key).example = example;
     };
-
   }());
 
   var okay = true;
