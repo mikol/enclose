@@ -4,7 +4,7 @@
 'use strict';
 
 var id = '';
-var dependencies = ['../enclose'];
+var dependencies = ['./enclose'];
 
 function factory(enclose) {
   var key = {};

@@ -4,10 +4,9 @@
   "description": "Create private property-value stores for your classes.",
   "main": "enclose.js",
   "directories": {
-    "example": "examples"
   },
   "scripts": {
-    "test": "node examples/enclose.js"
+    "test": "node example.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +18,11 @@
     "private",
     "property-value store"
   ],
-  "author": "",
+  "author": {
+    "name": "Mikol Graves",
+    "email": "mikol@thinbox.org",
+    "url": "https://mikol.github.io/"
+  },
   "license": "CC-BY-SA-4.0",
   "bugs": {
     "url": "https://github.com/mikol/enclose/issues"
