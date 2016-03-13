@@ -1,0 +1,31 @@
+{
+  "name": "enclose",
+  "version": "0.0.1",
+  "description": "Create private property-value stores for your classes.",
+  "main": "enclose.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node examples/enclose.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikol/enclose.git"
+  },
+  "keywords": [
+    "data hiding",
+    "encapsulation",
+    "private",
+    "property-value store"
+  ],
+  "author": "",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/mikol/enclose/issues"
+  },
+  "homepage": "https://github.com/mikol/enclose#readme",
+  "dependencies": {
+    "instance": "git+https://github.com/mikol/instance.git"
+  }
+}
